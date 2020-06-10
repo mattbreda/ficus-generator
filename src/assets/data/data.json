@@ -1,0 +1,88 @@
+{
+  "generator": {
+    "wants": [
+      "UAO! voglio Costruire",
+      "UAO! voglio Rigenerare",
+      "UAO! voglio Educare",
+      "UAO! voglio Comunicare",
+      "UAO! voglio “Verdificare”",
+      "UAO! voglio Coltivare"
+    ],
+    "elements": [
+      "un arioso",
+      "un acquoso",
+      "un focoso",
+      "un terroso",
+      "un etereo",
+      "un caccoso"
+    ],
+    "object": [
+        "Casa",
+        "Palestra",
+        "Ufficio",
+        "Centro cult.",
+        "Orto",
+        "Giardino",
+        "workshop",
+        "festival"
+    ],
+    "type": [
+        "scalabile",
+        "modulare"
+    ],
+    "where_A": [
+        "in una Pianura",
+        "in una Collina",
+        "in una Montagna",
+        "su una Costa",
+        "in una Metropoli",
+        "in un Villaggio medio",
+        "in un Villaggio piccolo",
+        "in una Cittadina",
+        "in un Bosco",
+        "in un Prato",
+        "in un Lago",
+        "in un Fiume",
+        "dentro una Cascata",
+        "in un Centro storico",
+        "in una Periferia",
+        "in un Quartiere industriale",
+        "in un Quartiere residenziale",
+        "in un Quartiere dormitorio",
+        "nella mia mente"
+    ],
+    "where_B": [
+    "rurale",
+    "urbano"
+    ],
+    "why": [
+        "per Residenti",
+        "per un Turismo slow",
+        "per Studenti",
+        "per i Powery",
+        "per soli Billionari"
+    ],
+    "using": [
+      "impiegando soltanto"
+    ],
+    "how_long": [
+        "1-6 mesi",
+        "6mesi-1 anno",
+        "1 anno-3 anni",
+        "3-5 anni",
+        "> 5 anni"
+    ],
+    "all_paid": [
+      "tutto ovviamente pagato"
+    ],
+    "cash": [
+        "da me!",
+        "da privati!",
+        "dal Comune!",
+        "dalla Regione!",
+        "dalla Nazione!",
+        "dall'EU!",
+        "da un bando trovato!"
+    ]
+  }
+}
