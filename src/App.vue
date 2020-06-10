@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Generator />
+    MICHELE MERDA
   </div>
 </template>
 
